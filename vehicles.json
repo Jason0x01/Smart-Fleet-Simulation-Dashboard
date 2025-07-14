@@ -1,0 +1,12 @@
+[
+  {
+    "id": "V001",
+    "max_volume": 8,
+    "max_weight": 1000
+  },
+  {
+    "id": "V002",
+    "max_volume": 8,
+    "max_weight": 1000
+  }
+]

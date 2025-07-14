@@ -1,0 +1,8 @@
+# 套件需求
+streamlit
+folium
+requests
+scikit-learn
+pyyaml
+openrouteservice
+pandas
